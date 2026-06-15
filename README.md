@@ -21,6 +21,42 @@ A modern, open-source YouTube video downloader for Windows — built with **Pyth
 
 ---
 
+## Application Preview
+
+### Main Window
+
+<p align="center">
+  <img src="assets/screenshots/main-window.png" alt="Main Window" width="900">
+</p>
+
+### Queue Management
+
+<p align="center">
+  <img src="assets/screenshots/queue-page.png" alt="Queue Management" width="900">
+</p>
+
+### Settings
+
+<p align="center">
+  <img src="assets/screenshots/settings-page.png" alt="Settings" width="900">
+</p>
+
+## Download
+
+The latest stable release is available from the Releases page:
+
+https://github.com/Crow-developers/CrowTube/releases/latest
+
+### Quick Start
+
+1. Download the latest release.
+2. Extract the archive if required.
+3. Run `CrowTube.exe`.
+4. Paste a YouTube URL.
+5. Select the desired format and quality.
+6. Start downloading.
+
+
 ## Features
 
 - **Download YouTube videos** in any quality (360p → 4K)
